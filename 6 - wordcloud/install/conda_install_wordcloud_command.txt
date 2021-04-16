@@ -1,0 +1,2 @@
+conda install -c conda-forge wikipedia
+conda install -c conda-forge wordcloud
